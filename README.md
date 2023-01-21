@@ -25,7 +25,6 @@ Notebook for inference and results reproducing:
 
 https://github.com/asmayamani/GreenHawk/blob/main/GreenHawk_inference%20and%20reproducing%20submission.ipynb
 
-
 The Folder bellow that contains the data splits have to be downloaded and placed in the root of a Google Drive account:
 https://drive.google.com/file/d/1r55-DDb-Fu1m0d3fbZwx2fLBnquGL-A_/view?usp=share_link
 
